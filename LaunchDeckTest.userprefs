@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{809C1C37-D14B-4E88-8DED-0FCA6A08F5BA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LaunchDeckTest/Main.storyboard">
+    <Files>
+      <File FileName="LaunchDeckTest/Main.storyboard" />
+      <File FileName="LaunchDeckTest/Presentation/Controller/Screen/UserViewcontroller.cs" Line="31" Column="13" />
+      <File FileName="LaunchDeckTest/Presentation/Controller/Screen/UserViewcontroller.designer.cs" Line="1" Column="1" />
+      <File FileName="LaunchDeckTest/Presentation/TableView/UserTableSource.cs" Line="54" Column="1" />
+      <File FileName="LaunchDeckTest/Common/ClassIdentifier.cs" Line="6" Column="44" />
+      <File FileName="LaunchDeckTest/Presentation/Listener/UserTableListener.cs" Line="6" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LaunchDeckTest" expanded="True">
+            <Node name="LaunchDeckTest" expanded="True">
+              <Node name="Common" expanded="True" />
+              <Node name="DataLayer" expanded="True">
+                <Node name="NetworkService" expanded="True" />
+              </Node>
+              <Node name="Presentation" expanded="True">
+                <Node name="Controller" expanded="True">
+                  <Node name="base" expanded="True" />
+                  <Node name="Screen" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/tungphan/Documents/GitKraken/LaunchDeckTest/LaunchDeckTest/LaunchDeckTest/DataLayer/NetworkService/ITanNienBookingApi.cs" relfile="LaunchDeckTest/DataLayer/NetworkService/ITanNienBookingApi.cs" line="2" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LaunchDeckTest PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.7bc63c6c782af03c21d065f4ba63ab6391832083">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.LaunchDeckTest>
+</Properties>

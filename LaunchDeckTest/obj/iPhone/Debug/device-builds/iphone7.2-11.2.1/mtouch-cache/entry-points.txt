@@ -1,0 +1,23 @@
+Function=xamarin_timezone_get_data
+	/Users/tungphan/Documents/GitKraken/LaunchDeckTest/LaunchDeckTest/LaunchDeckTest/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/tungphan/Documents/GitKraken/LaunchDeckTest/LaunchDeckTest/LaunchDeckTest/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/tungphan/Documents/GitKraken/LaunchDeckTest/LaunchDeckTest/LaunchDeckTest/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/mtouch-cache/Link/mscorlib.dll
+Function=UIApplicationMain
+	/Users/tungphan/Documents/GitKraken/LaunchDeckTest/LaunchDeckTest/LaunchDeckTest/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/tungphan/Documents/GitKraken/LaunchDeckTest/LaunchDeckTest/LaunchDeckTest/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/tungphan/Documents/GitKraken/LaunchDeckTest/LaunchDeckTest/LaunchDeckTest/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/tungphan/Documents/GitKraken/LaunchDeckTest/LaunchDeckTest/LaunchDeckTest/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/tungphan/Documents/GitKraken/LaunchDeckTest/LaunchDeckTest/LaunchDeckTest/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/tungphan/Documents/GitKraken/LaunchDeckTest/LaunchDeckTest/LaunchDeckTest/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/tungphan/Documents/GitKraken/LaunchDeckTest/LaunchDeckTest/LaunchDeckTest/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/tungphan/Documents/GitKraken/LaunchDeckTest/LaunchDeckTest/LaunchDeckTest/obj/iPhone/Debug/device-builds/iphone7.2-11.2.1/mtouch-cache/Link/System.dll
+Function=mono_pmip
